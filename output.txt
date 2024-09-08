@@ -1,0 +1,103 @@
+
+Output of code below
+(Data Read From File Successfully)
+Planet Tracker!
+1. Add Planet
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: a
+ERROR: ENTER NUMBER IN THE RANGE 1-6: -
+ERROR: ENTER NUMBER IN THE RANGE 1-6: .
+ERROR: ENTER NUMBER IN THE RANGE 1-6: 1
+Enter Planet Name: Mars
+Enter Diameter (km): 6779
+Enter Mass In Scientific Notation (kg), ex: 3.4e10: 6.39e23
+Planet Tracker!
+1. Add Planet
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: 1
+Enter Planet Name: Earth
+Enter Diameter (km): 12742
+Enter Mass In Scientific Notation (kg), ex: 3.4e10: 5.972e24
+Planet Tracker!
+1. Add Planet
+
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: 1
+Enter Planet Name: Jupiter
+Enter Diameter (km): 139820
+Enter Mass In Scientific Notation (kg), ex: 3.4e10: 1.899e27
+Planet Tracker!
+1. Add Planet
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: 3
+Enter Planet Name To Find: Earth
+Name: Earth
+Diameter: 1.274e+04 km
+Mass: 5.972e+24 kg
+Surface Area: 5.101e+08 km^2
+Density: 5.515e+03 kg/m^3
+Acceleration Due To Gravity: 9.820e+00 m/s^2
+Planet Tracker!
+1. Add Planet
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: 3
+Enter Planet Name To Find: Mars
+Name: Mars
+Diameter: 6.779e+03 km
+
+Mass: 6.390e+23 kg
+Surface Area: 1.444e+08 km^2
+Density: 3.918e+03 kg/m^3
+Acceleration Due To Gravity: 3.712e+00 m/s^2
+Planet Tracker!
+1. Add Planet
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: 3
+Enter Planet Name To Find: Jupiter
+Name: Jupiter
+Diameter: 1.398e+05 km
+Mass: 1.899e+27 kg
+Surface Area: 6.142e+10 km^2
+Density: 1.327e+03 kg/m^3
+Acceleration Due To Gravity: 2.593e+01 m/s^2
+Planet Tracker!
+1. Add Planet
+2. Delete Planet
+3. Find Planet
+4. List All
+5. Sort Planets
+6. Quit
+Enter Choice: 4
+Name: Mars
+Diameter: 6.779e+03 km
+Mass: 6.390e+23 kg
+Surface Area: 1.444e+08 km^2
+Density: 3.918e+03 kg/m^3
+Acceleration Due To Gravity: 3.712e+00 m/s^2
+-----------------------
+Name: Earth
+Diameter: 1.274e+04 km
